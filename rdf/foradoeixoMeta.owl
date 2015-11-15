@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#foradoeixo">
+    <rdfs:label>Snapshot foradoeixo</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The IRC log of the #foradoeixo.log IRC channel log</rdfs:comment>
+    <po:originalFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/foradoeixo/master/base/#foradoeixo.log</po:originalFile>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/foradoeixo/master/rdf/foradoeixoTranslate.ttl</po:ttlFile>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/foradoeixo/master/rdf/foradoeixoMeta.owl</po:discorveryRDFFile>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/foradoeixo/master/rdf/foradoeixoMeta.ttl</po:discoveryTTLFile>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015-10-15</po:createdAt>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lalenia supybot</po:acquiredThrough>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">labMacambira.sf.net</po:donatedBy>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-11-15T04:20:06.905551</po:triplifiedIn>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/ttm/</po:availableAt>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/foradoeixo/master/rdf/foradoeixoTranslate.owl</po:rdfFile>
+  </rdf:Description>
+</rdf:RDF>
